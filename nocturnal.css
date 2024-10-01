@@ -1223,7 +1223,6 @@
 #app-mount .templatesList-uohY49:hover {
     overflow-x: hidden !important;
     overflow-y: overlay !important;
-    scrollbar-width: none !important; /* Firefox */
     -ms-overflow-style: none !important;
 }
 
