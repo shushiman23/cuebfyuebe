@@ -1223,7 +1223,7 @@
 #app-mount .templatesList-uohY49:hover {
     overflow-x: hidden !important;
     overflow-y: overlay !important;
-	-ms-overflow-style: none !important;
+    overflow-style: none !important;
 }
 
 #app-mount .autocompleteScroller-13i2_Y:hover::-webkit-scrollbar,
