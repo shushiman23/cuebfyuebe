@@ -1221,7 +1221,7 @@
 #app-mount .scroller:hover,
 #app-mount .scrollerBase-_bVAAt:hover,
 #app-mount .templatesList-uohY49:hover {
-    overflow-x: hidden !important
+    overflow: overlay !important
 }
 
 #app-mount .autocompleteScroller-13i2_Y:hover::-webkit-scrollbar,
