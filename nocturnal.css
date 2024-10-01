@@ -1225,7 +1225,6 @@
     overflow-y: overlay !important;
     scrollbar-width: none !important; /* Firefox */
     -ms-overflow-style: none !important;
-    display: none !important;
 }
 
 #app-mount .autocompleteScroller-13i2_Y:hover::-webkit-scrollbar,
