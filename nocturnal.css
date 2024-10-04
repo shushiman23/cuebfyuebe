@@ -160,10 +160,6 @@
     box-shadow: none !important
 }
 
-#app-mount .colorable_ef18ee.primaryDark_ef18ee {
-    background-color: var(--backgroundColor01) !important
-}
-
 #app-mount .button_adca65.enabled_adca65:hover {
     background-color: var(--backgroundColor01) !important
 }
