@@ -3424,3 +3424,7 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 [class="spoilerContent__54ab5 spoilerMarkdownContent__54ab5 hidden__54ab5"] {
     background: #1d0004 !important;
 }
+
+[class="obscuredTextContentInner__54ab5"] {
+    background: #1d0004 !important
+}
