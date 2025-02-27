@@ -2808,11 +2808,11 @@
 }
 
 .icon_f8896c,
-.reactionBtn_f8896c {
+.reactionBtn__23977 {
     color: var(--gradientColor02);
 }
 
-.reactionBtn_f8896c:hover .icon_f8896c {
+.reactionBtn__23977:hover .icon_f8896c {
     color: var(--gradientColor02);
 }
 
